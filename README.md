@@ -58,7 +58,7 @@ To get started with the **Go Template**, follow these steps:
 3. **Run the Application**:
    You can start the application with:
    ```bash
-   go run main.go
+   go run ./cmd/app
    ```
 
 4. **Visit the API**:
@@ -94,6 +94,22 @@ export DB_PORT=5432
 ### Logging
 
 The application comes with built-in logging. You can adjust the log level using the configuration settings.
+
+### Docker
+
+You can build and run the full application stack (API, PostgreSQL, and Redis) using Docker:
+
+```bash
+docker compose up --build
+```
+
+The API is available at `http://localhost:8080`, PostgreSQL at `localhost:5432`, and Redis at `localhost:6379`. Default credentials are defined in `docker-compose.yml`; override them by supplying environment variables in a `.env` file or directly in the compose file as needed.
+
+To stop the stack and remove containers, run:
+
+```bash
+docker compose down
+```
 
 ### API Endpoints
 
