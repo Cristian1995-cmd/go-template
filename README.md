@@ -58,7 +58,7 @@ To get started with the **Go Template**, follow these steps:
 3. **Run the Application**:
    You can start the application with:
    ```bash
-   go run main.go
+   go run ./cmd/app
    ```
 
 4. **Visit the API**:
